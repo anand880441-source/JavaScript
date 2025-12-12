@@ -1,5 +1,6 @@
 # 📊 Diagram 1: Declaration vs Initialization
-``` mermaid
+
+```mermaid
 flowchart TD
     subgraph "Declaration (Creating the variable)"
         direction LR
@@ -21,8 +22,8 @@ flowchart TD
     
     C --> Examples1["let x; // Declaration<br>x = 5; // Initialization"]
     F --> Examples2["const y = 10; // Declaration + Initialization"]
-    I --> Examples3["let z = 1; // Declaration + Init<br>z = 2; // Reassignment"
-``` 
+    I --> Examples3["let z = 1; // Declaration + Init<br>z = 2; // Reassignment"]
+```
 
 # 🎯 Diagram 2: What Each Variable Type Allows
 
