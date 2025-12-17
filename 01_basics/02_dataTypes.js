@@ -15,7 +15,7 @@ let isLoggedIn = false
 let state;
 
 // number => 2 to power 53
-// bigint
+// bigint  -> used when number is too long
 // string => ""
 // boolean => true/false
 // null => standalone value
