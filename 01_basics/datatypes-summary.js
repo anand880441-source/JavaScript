@@ -1,4 +1,4 @@
-//  Primitive
+//  Primitive -> call by value
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
@@ -33,5 +33,6 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+console.log(typeof heros, typeof myObj)
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
