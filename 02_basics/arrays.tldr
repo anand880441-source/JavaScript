@@ -2166,9 +2166,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 2967.3843762359165,
-			"y": 1222.4653441651517,
-			"z": 0.22373367526956248,
+			"x": 2783.7620237821698,
+			"y": 947.5353246127186,
+			"z": 0.18907297758957176,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -3689,10 +3689,8 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:nRrtkyj7dJjRPwsTICA6s"
-			],
-			"hoveredShapeId": "shape:nRrtkyj7dJjRPwsTICA6s",
+			"selectedShapeIds": [],
+			"hoveredShapeId": "shape:zPXGh6U_h2cgVmAC-m6aj",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -6017,7 +6015,7 @@
 			"props": {
 				"color": "black",
 				"size": "m",
-				"w": 172.625,
+				"w": 304.3374938964844,
 				"font": "draw",
 				"textAlign": "middle",
 				"autoSize": true,
@@ -6045,6 +6043,12 @@
 									"text": "Example Usage:"
 								}
 							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
 						}
 					]
 				}
@@ -9126,11 +9130,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:fill": "solid",
-				"tldraw:geo": "rectangle",
-				"tldraw:horizontalAlign": "start"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -9144,7 +9144,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 720,
+				"w": 550.4000244140625,
 				"h": 702.4000244140625
 			},
 			"insets": [
