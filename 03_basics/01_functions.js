@@ -1,11 +1,10 @@
 
 function sayMyName(){
-    console.log("H");
-    console.log("I");
-    console.log("T");
-    console.log("E");
     console.log("S");
-    console.log("H");
+    console.log("P");
+    console.log("I");
+    console.log("N");
+    console.log("O");
 }
 
 // sayMyName()
@@ -15,7 +14,7 @@ function sayMyName(){
 //     console.log(number1 + number2);
 // }
 
-function addTwoNumbers(number1, number2){
+function addTwoNumbers(number1, number2){ 
 
     // let result = number1 + number2
     // return result
@@ -39,14 +38,14 @@ function loginUserMessage(username = "sam"){
 // console.log(loginUserMessage("hitesh"))
 
 
-function calculateCartPrice(val1, val2, ...num1){
+function calculateCartPrice(val1, val2, ...num1){   //-> ...num1 is rest op, it give value in array
     return num1
 }
 
 // console.log(calculateCartPrice(200, 400, 500, 2000))
 
 const user = {
-    username: "hitesh",
+    username: "spino",
     prices: 199
 }
 
